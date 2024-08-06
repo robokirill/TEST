@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.7.6">
   <diagram name="Страница — 1" id="_SKdRh1ridLEpidDvCyz">
-    <mxGraphModel dx="1741" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#0e71b4" math="0" shadow="0">
+    <mxGraphModel dx="1942" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#0e71b4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="870" width="140" height="200" as="geometry" />
+          <mxGeometry x="435" y="870" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-31" value="Законы сервера" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="953" width="130" height="40" as="geometry" />
@@ -118,31 +118,28 @@
           <mxGeometry x="430" y="890" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="810" width="140" height="450" as="geometry" />
+          <mxGeometry x="705" y="810" width="140" height="390" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-36" value="За" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="710" y="860" width="60" height="40" as="geometry" />
+          <mxGeometry x="710" y="900" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-37" value="Предложить свой закон" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="710" y="1040" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-38" value="Законы сервера" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="705" y="830" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TSFnOZUrxSkBlMP-To67-39" value="Разрешить ебать овец" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="820" width="110" height="30" as="geometry" />
+          <mxGeometry x="705" y="820" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-42" value="Против" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="780" y="860" width="60" height="40" as="geometry" />
+          <mxGeometry x="780" y="900" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-46" value="За" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="710" y="950" width="60" height="40" as="geometry" />
+          <mxGeometry x="710" y="990" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-47" value="Запретить рубить лес на спавне" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="910" width="110" height="30" as="geometry" />
+          <mxGeometry x="720" y="950" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-48" value="Против" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="780" y="950" width="60" height="40" as="geometry" />
+          <mxGeometry x="780" y="990" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TSFnOZUrxSkBlMP-To67-31" target="TSFnOZUrxSkBlMP-To67-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -297,6 +294,12 @@
             <mxPoint x="855" y="1403" as="sourcePoint" />
             <mxPoint x="955" y="1433" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-123" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1054.25" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-124" value="Запретить ебать овец на спавне" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="860" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
