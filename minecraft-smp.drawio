@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.7.6">
   <diagram name="Страница — 1" id="_SKdRh1ridLEpidDvCyz">
-    <mxGraphModel dx="1393" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#0e71b4" math="0" shadow="0">
+    <mxGraphModel dx="1741" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#0e71b4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="YOvDV3y9TgNX6leJfm7o-9" value="Контракты" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="125" y="440" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YOvDV3y9TgNX6leJfm7o-10" value="Инвестиции" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="YOvDV3y9TgNX6leJfm7o-10" value="Инвестиции и Пожертвования" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="125" y="490" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YOvDV3y9TgNX6leJfm7o-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -41,6 +41,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="450" as="sourcePoint" />
             <mxPoint x="427" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="310" />
+              <mxPoint x="380" y="246" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YOvDV3y9TgNX6leJfm7o-18" value="Input суммы средств" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -72,6 +76,227 @@
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-1" value="История транзакций" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="125" y="341.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="140" height="281.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-3" value="Список последних транзакций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="533" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-8" value="Покупка дилдо: -50" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="590" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-10" value="&lt;div&gt;Доход с инвестиций&lt;br&gt;&amp;nbsp;в порт на спавне + 30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="625.75" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-11" value="&lt;div&gt;Покупка предметов - 48&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="660" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-12" value="&lt;div&gt;Продажа предметов +93&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TSFnOZUrxSkBlMP-To67-1" target="TSFnOZUrxSkBlMP-To67-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="320" as="sourcePoint" />
+            <mxPoint x="441" y="256" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="360" />
+              <mxPoint x="380" y="548" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="870" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-31" value="Законы сервера" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="953" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-32" value="Законы игроков" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1003" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-34" value="Законы и обсуждения" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="810" width="140" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-36" value="За" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="710" y="860" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-37" value="Предложить свой закон" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1040" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-38" value="Законы сервера" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="830" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-39" value="Разрешить ебать овец" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="820" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-42" value="Против" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="780" y="860" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-46" value="За" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="710" y="950" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-47" value="Запретить рубить лес на спавне" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-48" value="Против" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="780" y="950" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TSFnOZUrxSkBlMP-To67-31" target="TSFnOZUrxSkBlMP-To67-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="725" y="1070" as="sourcePoint" />
+            <mxPoint x="775" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-54" value="Input TEXT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1094.25" width="140" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="1057.88" width="140" height="124.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-56" value="Закон успешно принят на обсуждение" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="1083.63" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-57" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1132.13" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TSFnOZUrxSkBlMP-To67-54" target="TSFnOZUrxSkBlMP-To67-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="1171.38" as="sourcePoint" />
+            <mxPoint x="945" y="1171.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="TSFnOZUrxSkBlMP-To67-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="1120" as="sourcePoint" />
+            <mxPoint x="1155" y="932" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-60" value="Открыть список законов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1090" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1160" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-64" value="Законы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1182.13" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.327;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" target="TSFnOZUrxSkBlMP-To67-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="1170" as="sourcePoint" />
+            <mxPoint x="955" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-66" value="Запрещено ПВП" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-68" value="......." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-70" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-87" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1290" width="140" height="281.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-88" value="Выберете Игрока" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1323" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-89" value="Залупко" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1373" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-90" value="Залупенко" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1423" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-91" value="Залупский" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1473" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-92" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1521.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-93" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1373" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-94" value="Законы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1395.13" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-95" value="Разрешено ебать овец" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1443" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-96" value="......." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1473" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-102" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1590" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-103" value="Мои Законы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1612.13" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-104" value="Разрешено ебать овец" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1660" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-105" value="......." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1690" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-107" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-108" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1513" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-109" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1790" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-111" value="Добавить новый закон" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1730" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-112" value="Input TEXT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="1724.25" width="140" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-113" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="1690" width="140" height="124.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-114" value="Закон успешно добавлен" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="1715.75" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-115" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1764.25" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TSFnOZUrxSkBlMP-To67-111" target="TSFnOZUrxSkBlMP-To67-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1188" y="1612.13" as="sourcePoint" />
+            <mxPoint x="1290" y="1667.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TSFnOZUrxSkBlMP-To67-112" target="TSFnOZUrxSkBlMP-To67-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="1760" as="sourcePoint" />
+            <mxPoint x="1145" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-119" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="1023" as="sourcePoint" />
+            <mxPoint x="715" y="1338" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="1023" />
+              <mxPoint x="670" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-120" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TSFnOZUrxSkBlMP-To67-89" target="TSFnOZUrxSkBlMP-To67-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="858" y="1298" as="sourcePoint" />
+            <mxPoint x="960" y="1353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.156;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" source="TSFnOZUrxSkBlMP-To67-90" target="TSFnOZUrxSkBlMP-To67-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="1403" as="sourcePoint" />
+            <mxPoint x="955" y="1433" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
