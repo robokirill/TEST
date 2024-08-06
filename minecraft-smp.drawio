@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YOvDV3y9TgNX6leJfm7o-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="200" width="140" height="340" as="geometry" />
+          <mxGeometry x="120" y="200" width="140" height="400" as="geometry" />
         </mxCell>
         <mxCell id="YOvDV3y9TgNX6leJfm7o-4" value="Баланс: 666 ОЧК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="230" width="100" height="30" as="geometry" />
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="TSFnOZUrxSkBlMP-To67-124" value="Запретить ебать овец на спавне" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="860" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSFnOZUrxSkBlMP-To67-125" value="Рынок" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="125" y="540" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
